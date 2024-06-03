@@ -67,7 +67,6 @@ public class Principal {
                 case 0:
                     codigo = 0;
                     System.out.println("Saliendo de la aplicación");
-                    teclado.close();
                     break;
                 default:
                     codigoInvalido();
